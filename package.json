@@ -1,0 +1,22 @@
+{
+  "name": "processing-online",
+  "version": "1.0.0",
+  "description": "It's Just Processing . . . ONLINE!",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"No Tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Processing-Online-Team/Processing-Online-API.git"
+  },
+  "author": "Processing Online Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Processing-Online-Team/Processing-Online-API/issues"
+  },
+  "homepage": "https://github.com/Processing-Online-Team/Processing-Online-API#readme",
+  "dependencies": {
+    "processing": "^0.2.0"
+  }
+}
